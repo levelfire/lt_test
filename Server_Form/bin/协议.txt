@@ -1,0 +1,47 @@
+enum FrameGroup
+{
+FrameGroup_UserToServer     = 0x01, //客户端到服务端
+FrameGroup_ServerResult     = 0x02, //服务端返回客户端
+FrameGroup_ServerToUser     = 0x03, //服务端到客户端
+}
+
+enum FrameType_UserToServer
+{
+FrameType_Login     = 0x00, //登陆请求
+FrameType_Fire      = 0x01, //开火请求
+}
+public enum FrameType_ServerResult
+{
+FrameType_Login_Result = 0x00, //登陆请求返回（成功）
+FrameType_Fire_Result = 0x01,  //开火请求返货（成功）
+}
+public enum FrameType_ServerToUser
+{
+FrameType_SwanpFish     = 0x01,//鱼生成
+FrameType_HitFish       = 0x02,//子弹命中鱼
+FrameType_CatchFish     = 0x03,//捕获鱼
+}
+
+客户端到服务端协议
+FrameType_Login 登陆
+6字节包头 + int（玩家ID）
+
+FrameType_Fire
+6字节包头 + int（子弹ID）+ int（x）+ int（y）+ int（ex）+ int（ey）
+
+服务端返回客户端协议
+FrameType_Login_Result
+6字节包头 + int（玩家ID）+ int(房间Index) + int（座位）
+
+FrameType_Fire_Result
+6字节包头 + int（子弹ID）+ int（x）+ int（y）+ int（ex）+ int（ey）+ int（玩家ID）+ int（子弹index）
+
+服务端到客户端协议
+FrameType_SwanpFish
+6字节包头 + int（鱼ID）+ int（出生点ID）+ int（鱼Index）
+
+FrameType_HitFish
+6字节包头 + int（玩家ID） + int（x）+ int（y） + int（子弹Index）
+
+FrameType_CatchFish
+6字节包头 + int（鱼Index）+ int（玩家ID）

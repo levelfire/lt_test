@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Fishdata>
+	  <Fish ID="1" name="1" type="1" with="3" random="4" cash = "1" speed = "5" bodysize = "10"/>
+	  <Fish ID="2" name="1" type="2" with="3" random="4" cash = "1" speed = "6" bodysize = "10"/>
+	  <Fish ID="3" name="1" type="3" with="3" random="4" cash = "1" speed = "5" bodysize = "10"/>
+	  <Fish ID="4" name="1" type="4" with="3" random="4" cash = "1" speed = "5" bodysize = "10"/>
+	  <Fish ID="5" name="1" type="5" with="3" random="4" cash = "1" speed = "5" bodysize = "10"/>
+	  <Fish ID="6" name="1" type="6" with="3" random="4" cash = "1" speed = "5" bodysize = "10"/>
+	  <Fish ID="7" name="1" type="7" with="3" random="4" cash = "1" speed = "6" bodysize = "10"/>
+	  <Fish ID="8" name="1" type="8" with="3" random="4" cash = "1" speed = "6" bodysize = "10"/>
+	  <Fish ID="9" name="1" type="9" with="3" random="4" cash = "1" speed = "6" bodysize = "10"/>
+	  <Fish ID="10" name="1" type="10" with="3" random="4" cash = "1" speed = "6" bodysize = "10"/>
+	  <Fish ID="11" name="1" type="11" with="3" random="4" cash = "1" speed = "6" bodysize = "10"/>
+	  <Fish ID="12" name="1" type="12" with="3" random="4" cash = "1" speed = "4" bodysize = "10"/>
+	</Fishdata>
+	<Posdata>
+	  <Pos ID="1" x="100" y="0" raw = "-50"/>
+	  <Pos ID="2" x="200" y="0" raw = "-40"/>
+	  <Pos ID="3" x="300" y="0" raw = "-30"/>
+	  <Pos ID="4" x="400" y="0" raw = "-20"/>
+	  <Pos ID="5" x="500" y="0" raw = "0"/>
+	  <Pos ID="6" x="600" y="0" raw = "10"/>
+	  <Pos ID="7" x="700" y="0" raw = "20"/>
+	  <Pos ID="8" x="800" y="0" raw = "30"/>
+	  <Pos ID="9" x="900" y="0" raw = "40"/>
+	  <Pos ID="10" x="1000" y="0" raw = "50"/>
+	  <Pos ID="11" x="0" y="0" raw = "-80"/>
+	  <Pos ID="12" x="0" y="100" raw = "-50"/>
+	  <Pos ID="13" x="0" y="200" raw = "-40"/>
+	  <Pos ID="14" x="0" y="300" raw = "-90"/>
+	  <Pos ID="15" x="0" y="400" raw = "-100"/>
+	  <Pos ID="16" x="0" y="500" raw = "-120"/>
+	  <Pos ID="17" x="0" y="600" raw = "-130"/>
+	</Posdata>
+	<Bulletdata>
+		<Bullet ID="1"  type="1" range = "10" cash = "10" speed = "30"/>
+		<Bullet ID="2"  type="2" range = "10" cash = "10" speed = "30"/>
+		<Bullet ID="3"  type="3" range = "10" cash = "10" speed = "30"/>
+		<Bullet ID="4"  type="4" range = "10" cash = "10" speed = "30"/>
+		<Bullet ID="5"  type="5" range = "10" cash = "10" speed = "30"/>
+		<Bullet ID="6"  type="6" range = "10" cash = "10" speed = "30"/>
+		<Bullet ID="7"  type="7" range = "10" cash = "10" speed = "30"/>
+	</Bulletdata>
+</root>

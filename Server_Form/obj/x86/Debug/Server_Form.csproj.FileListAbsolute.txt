@@ -1,0 +1,6 @@
+E:\Project\Server_Form_20110201\Server_Form\obj\x86\Debug\Server_Form.Form1.resources
+E:\Project\Server_Form_20110201\Server_Form\obj\x86\Debug\Server_Form.Properties.Resources.resources
+E:\Project\Server_Form_20110201\Server_Form\obj\x86\Debug\Server_Form.csproj.GenerateResource.Cache
+E:\Project\Server_Form_20110201\Server_Form\obj\x86\Debug\Server_Form.exe
+E:\Project\Server_Form_20110201\Server_Form\obj\x86\Debug\Server_Form.pdb
+E:\Project\Server_Form_20110201\Server_Form\obj\x86\Debug\Server_Form.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\work\Test_Socket\FishServer_Form\bin\Debug\FishServer_Form.exe
+E:\work\Test_Socket\FishServer_Form\bin\Debug\FishServer_Form.pdb
+E:\work\Test_Socket\FishServer_Form\bin\Debug\Common.dll
+E:\work\Test_Socket\FishServer_Form\bin\Debug\DAL.dll
+E:\work\Test_Socket\FishServer_Form\bin\Debug\MySql.Data.dll
+E:\work\Test_Socket\FishServer_Form\bin\Debug\Common.pdb
+E:\work\Test_Socket\FishServer_Form\bin\Debug\DAL.pdb
+E:\work\Test_Socket\FishServer_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\Test_Socket\FishServer_Form\obj\x86\Debug\FishServer_Form.Form1.resources
+E:\work\Test_Socket\FishServer_Form\obj\x86\Debug\FishServer_Form.Properties.Resources.resources
+E:\work\Test_Socket\FishServer_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\work\Test_Socket\FishServer_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\work\Test_Socket\FishServer_Form\obj\x86\Debug\FishServer_Form.exe
+E:\work\Test_Socket\FishServer_Form\obj\x86\Debug\FishServer_Form.pdb

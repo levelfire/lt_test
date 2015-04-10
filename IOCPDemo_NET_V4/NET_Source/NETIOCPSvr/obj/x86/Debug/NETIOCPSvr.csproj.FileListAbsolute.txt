@@ -1,0 +1,6 @@
+E:\Project\IOCPDemo_NET_V4\Bin\SocketAsyncSvr.exe.config
+E:\Project\IOCPDemo_NET_V4\Bin\SocketAsyncSvr.exe
+E:\Project\IOCPDemo_NET_V4\Bin\SocketAsyncSvr.pdb
+E:\Project\IOCPDemo_NET_V4\NET_Source\NETIOCPSvr\obj\x86\Debug\NETIOCPSvr.csprojResolveAssemblyReference.cache
+E:\Project\IOCPDemo_NET_V4\NET_Source\NETIOCPSvr\obj\x86\Debug\SocketAsyncSvr.exe
+E:\Project\IOCPDemo_NET_V4\NET_Source\NETIOCPSvr\obj\x86\Debug\SocketAsyncSvr.pdb

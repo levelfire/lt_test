@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Item>
+    	<!--放大镜-->
+    	<ItemDataID>1</ItemDataID>
+    	<!--1为固定道具，2为收费道具-->
+    	<ItemType>1</ItemType>
+    	<!--用2进制标注道具flag值(道具作用)，每个道具都有不同的flag，每关卡都有指定能使用的道具,-->
+    	<ItemFlag>1</ItemFlag>
+    </Item>
+    <Item>
+    	<!--加速-->
+    	<ItemDataID>2</ItemDataID>
+    	<ItemType>1</ItemType>
+    	<ItemFlag>2</ItemFlag>
+    </Item>
+    <Item>
+    	<!--收费道具1-->
+    	<ItemDataID>3</ItemDataID>
+    	<ItemType>2</ItemType>
+    	<ItemFlag>4</ItemFlag>
+    </Item>
+    <Item>
+    	<!--收费道具2-->
+    	<ItemDataID>4</ItemDataID>
+    	<ItemType>2</ItemType>
+    	<ItemFlag>8</ItemFlag>
+    </Item>
+</root>
